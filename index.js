@@ -4,6 +4,7 @@ const img = document.querySelector('#dog-img');
 //url of api
 const url = 'https://dog.ceo/api/breeds/image/random';
 
+
 //adding click event on btn 
 btn.addEventListener('click', async() => {
     let link = await getImage();
