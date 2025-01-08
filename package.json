@@ -1,0 +1,11 @@
+{
+  "name": "dog-api",
+  "version": "1.0.0",
+  "description": "generate random dog images in click of a button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "afsarjahan",
+  "license": "ISC"
+}
